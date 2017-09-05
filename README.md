@@ -1,3 +1,2 @@
 # LearningGitHub
-test repository for workshop
-learning how to edit in GitHUb versus command line
+Test repository for workshop. All about learning how to edit in GitHub versus command line.
